@@ -1,0 +1,9 @@
+.movie-slider-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  padding: 40px;
+}
+
+.heading {
+  color: #ffffff;
+}

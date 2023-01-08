@@ -1,0 +1,13 @@
+.title-logo {
+  width: 100%;
+  padding: 0%;
+  margin: 0px;
+  max-height: 300px;
+}
+
+.prime-video-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
